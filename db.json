@@ -1,0 +1,49 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan (Actualizado)",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "Requiere una nota.",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Karen",
+      "telefono": 102013313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 102013313,
+      "email": "josue@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 102013313,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Gabriel Alfaro",
+      "empresa": "IMS",
+      "email": "gabriel.alfaro.cruz@gmail.com",
+      "telefono": "+1 (765) 269-4031",
+      "notas": "Esto es una prueba",
+      "id": 6
+    },
+    {
+      "nombre": "Luis",
+      "empresa": "Cupidatat ab recusan",
+      "email": "zofi@mailinator.com",
+      "telefono": "+1 (176) 642-4233",
+      "notas": "Ad cupidatat quidem ",
+      "id": 7
+    }
+  ]
+}
